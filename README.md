@@ -26,7 +26,7 @@
 
 ### 4、运行
  * protoc --go_out=. *.proto
- * Note，*前有空格，*是你proto文件的名称
+ * Note，*前有空格，*是你proto文件的名称，更多详细内容，请阅[官方文档](https://github.com/golang/protobuf)
     
 
 
